@@ -1,0 +1,52 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: bpur15047211.aux
+A level-1 auxiliary file: titlepage.aux
+A level-1 auxiliary file: text/declaration.aux
+The style file: dcu.bst
+A level-1 auxiliary file: text/appendix.aux
+Database file #1: refs.bib
+Warning--empty author in Arp
+Warning--empty author in Seo
+You've used 25 entries,
+            2921 wiz_defined-function locations,
+            805 strings with 8826 characters,
+and the built_in function-call counts, 99384 in all, are:
+= -- 16121
+> -- 1448
+< -- 0
++ -- 7661
+- -- 441
+* -- 8616
+:= -- 19990
+add.period$ -- 52
+call.type$ -- 25
+change.case$ -- 338
+chr.to.int$ -- 25
+cite$ -- 27
+duplicate$ -- 362
+empty$ -- 760
+format.name$ -- 522
+if$ -- 17885
+int.to.chr$ -- 5
+int.to.str$ -- 0
+missing$ -- 25
+newline$ -- 105
+num.names$ -- 241
+pop$ -- 71
+preamble$ -- 1
+purify$ -- 365
+quote$ -- 0
+skip$ -- 348
+stack$ -- 0
+substring$ -- 22592
+swap$ -- 62
+text.length$ -- 330
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 100
+warning$ -- 2
+while$ -- 516
+width$ -- 0
+write$ -- 348
+(There were 2 warnings)
